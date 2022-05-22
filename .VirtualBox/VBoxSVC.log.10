@@ -1,0 +1,243 @@
+00:00:00.008100 main     VirtualBox COM Server 6.1.22 r144080 win.amd64 (Apr 28 2021 17:23:11) release log
+00:00:00.008111 main     Log opened 2022-01-03T10:18:44.935118700Z
+00:00:00.008112 main     Build Type: release
+00:00:00.008129 main     OS Product: Windows 10
+00:00:00.008130 main     OS Release: 10.0.19043
+00:00:00.008131 main     OS Service Pack: 
+00:00:00.147274 main     DMI Product Name: X555LAB
+00:00:00.175754 main     DMI Product Version: 1.0       
+00:00:00.175777 main     Firmware type: UEFI
+00:00:00.176317 main     Secure Boot: VERR_PRIVILEGE_NOT_HELD
+00:00:00.176373 main     Host RAM: 3998MB (3.9GB) total, 552MB available
+00:00:00.176385 main     Executable: C:\Program Files\Oracle\VirtualBox\VBoxSVC.exe
+00:00:00.176386 main     Process ID: 9304
+00:00:00.176387 main     Package type: WINDOWS_64BITS_GENERIC
+00:00:00.320826          VirtualBox: object creation starts
+00:00:00.323403          Home directory: 'C:\Users\Aida\.VirtualBox'
+00:00:00.323980          Installed Drivers:
+00:00:00.328451            C:\WINDOWS\system32\DRIVERS\VBoxNetLwf.sys (Version: 6.1.22.44080)
+00:00:00.329768            C:\WINDOWS\system32\DRIVERS\VBoxUSBMon.sys (Version: 6.1.22.44080)
+00:00:00.330688            C:\WINDOWS\system32\DRIVERS\VBoxDrv.sys (Version: 6.1.22.44080)
+00:00:00.360965          Loading settings file "C:\Users\Aida\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:00.371453          usbLibGetDevices: Starting USB device enumeration
+00:00:00.375646          Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&7d2ba99&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 5
+00:00:00.376226          Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&7d2ba99&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 8
+00:00:00.379357          usbLibGetDevices: Found 5 USB devices, 0 captured
+00:00:00.383196          USB: Unknown USB device detected (idVendor: 0x0bda, idProduct: 0x57b5)
+00:00:00.462006          HostDnsMonitor: initializing
+00:00:00.477661          HostDnsMonitor: updating information
+00:00:00.478716          HostDnsMonitor: old information
+00:00:00.478717            no server entries
+00:00:00.478719            no domain set
+00:00:00.478719            no search string entries
+00:00:00.478720          HostDnsMonitor: new information
+00:00:00.478721            server 1: 213.60.205.175
+00:00:00.478722            server 2: 8.8.8.8
+00:00:00.478723            domain: mundo-R.com
+00:00:00.478723            no search string entries
+00:00:00.498306          VD: VDInit finished with VINF_SUCCESS
+00:00:00.526598          Loading settings file "C:\Users\Aida\VirtualBox VMs\EJ1AIDA\EJ1AIDA.vbox" with version "1.16-windows"
+00:00:00.549006          Loading settings file "C:\Users\Aida\VirtualBox VMs\EJ4AIDA\EJ4AIDA.vbox" with version "1.16-windows"
+00:00:00.562249          Loading settings file "C:\Users\Aida\VirtualBox VMs\EJ5AIDA_\EJ5AIDA_.vbox" with version "1.16-windows"
+00:00:00.578713          Loading settings file "C:\Users\Aida\VirtualBox VMs\EJ6AIDA_\EJ6AIDA_.vbox" with version "1.16-windows"
+00:00:00.592695          Loading settings file "C:\Users\Aida\VirtualBox VMs\Windows10_32\Windows10_32.vbox" with version "1.15-windows"
+00:00:00.621710          Loading settings file "C:\Users\Aida\VirtualBox VMs\Windows7\Windows7.vbox" with version "1.15-windows"
+00:00:00.640952          Loading settings file "C:\Users\Aida\VirtualBox VMs\Ubuntu 20\Ubuntu 20.vbox" with version "1.16-windows"
+00:00:00.644120          VirtualBox: object created
+00:00:06.994836          Saving settings file "C:\Users\Aida\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:07.034386          Saving settings file "C:\Users\Aida\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:08.068930          Launched VM: 51308624 pid: 2280 (0x8e8) frontend: GUI/Qt name: Windows7
+00:00:17.851674          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={70401eef-c8e9-466b-9660-45cb3e9979e4} aComponent={ExtPackManagerWrap} aText={No extension pack by the name 'Oracle VM VirtualBox Extension Pack' was found}, preserve=false aResultDetail=0
+00:00:19.811546          Saving settings file "C:\Users\Aida\VirtualBox VMs\Windows7\Windows7.vbox" with version "1.15-windows"
+00:00:32.553499          Saving settings file "C:\Users\Aida\VirtualBox VMs\Windows7\Windows7.vbox" with version "1.15-windows"
+00:28:01.808741 dns-monitor HostDnsMonitor: updating information
+00:28:01.809167 dns-monitor HostDnsMonitor: unchanged
+00:58:02.863024 dns-monitor HostDnsMonitor: updating information
+00:58:02.863540 dns-monitor HostDnsMonitor: unchanged
+00:58:23.979155 USBPROXY usbLibGetDevices: Starting USB device enumeration
+00:58:23.987318 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&7d2ba99&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 5
+00:58:23.989363 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&7d2ba99&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 8
+00:58:23.994289 USBPROXY usbLibGetDevices: Found 5 USB devices, 0 captured
+00:59:38.512202 USBPROXY usbLibGetDevices: Starting USB device enumeration
+00:59:38.519851 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&7d2ba99&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 5
+00:59:38.521254 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&7d2ba99&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 8
+00:59:38.522606 USBPROXY usbLibGetDevices: Found 5 USB devices, 0 captured
+01:10:23.146012 USBPROXY usbLibGetDevices: Starting USB device enumeration
+01:10:23.150100 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&7d2ba99&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 5
+01:10:23.151469 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&7d2ba99&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 8
+01:10:23.152904 USBPROXY usbLibGetDevices: Found 5 USB devices, 0 captured
+01:28:03.911068 dns-monitor HostDnsMonitor: updating information
+01:28:03.911201 dns-monitor HostDnsMonitor: unchanged
+01:35:07.872424 USBPROXY usbLibGetDevices: Starting USB device enumeration
+01:35:07.879385 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&7d2ba99&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 5
+01:35:07.881158 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&7d2ba99&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 8
+01:35:07.884492 USBPROXY usbLibGetDevices: Found 5 USB devices, 0 captured
+01:35:22.801915 USBPROXY usbLibGetDevices: Starting USB device enumeration
+01:35:22.807060 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&7d2ba99&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 5
+01:35:22.808477 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&7d2ba99&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 8
+01:35:22.809527 USBPROXY usbLibGetDevices: Found 5 USB devices, 0 captured
+01:35:54.297467 USBPROXY usbLibGetDevices: Starting USB device enumeration
+01:35:54.302628 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&7d2ba99&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 5
+01:35:54.303698 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&7d2ba99&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 8
+01:35:54.304542 USBPROXY usbLibGetDevices: Found 5 USB devices, 0 captured
+01:36:05.685829 USBPROXY usbLibGetDevices: Starting USB device enumeration
+01:36:05.690093 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&7d2ba99&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 5
+01:36:05.690881 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&7d2ba99&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 8
+01:36:05.691508 USBPROXY usbLibGetDevices: Found 5 USB devices, 0 captured
+01:37:27.116697 USBPROXY usbLibGetDevices: Starting USB device enumeration
+01:37:27.123917 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&7d2ba99&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 5
+01:37:27.127352 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&7d2ba99&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 8
+01:37:27.129675 USBPROXY usbLibGetDevices: Found 5 USB devices, 0 captured
+01:45:20.833496 USBPROXY usbLibGetDevices: Starting USB device enumeration
+01:45:20.838855 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&7d2ba99&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 5
+01:45:20.841096 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&7d2ba99&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 8
+01:45:20.843952 USBPROXY usbLibGetDevices: Found 5 USB devices, 0 captured
+01:45:21.599894 USBPROXY usbLibGetDevices: Starting USB device enumeration
+01:45:21.605092 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&7d2ba99&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 5
+01:45:21.606461 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&7d2ba99&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 8
+01:45:21.608008 USBPROXY usbLibGetDevices: Found 5 USB devices, 0 captured
+01:58:04.973282 dns-monitor HostDnsMonitor: updating information
+01:58:04.973434 dns-monitor HostDnsMonitor: unchanged
+02:09:19.570478 USBPROXY usbLibGetDevices: Starting USB device enumeration
+02:09:19.574313 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&7d2ba99&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 5
+02:09:19.574960 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&7d2ba99&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 8
+02:09:19.575547 USBPROXY usbLibGetDevices: Found 5 USB devices, 0 captured
+02:09:34.609151 USBPROXY usbLibGetDevices: Starting USB device enumeration
+02:09:34.614533 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&7d2ba99&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 5
+02:09:34.616127 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&7d2ba99&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 8
+02:09:34.617295 USBPROXY usbLibGetDevices: Found 5 USB devices, 0 captured
+02:10:07.369318 USBPROXY usbLibGetDevices: Starting USB device enumeration
+02:10:07.373893 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&7d2ba99&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 5
+02:10:07.377383 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&7d2ba99&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 8
+02:10:07.380176 USBPROXY usbLibGetDevices: Found 5 USB devices, 0 captured
+02:10:18.864708 USBPROXY usbLibGetDevices: Starting USB device enumeration
+02:10:18.871343 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&7d2ba99&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 5
+02:10:18.873487 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&7d2ba99&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 8
+02:10:18.874108 USBPROXY usbLibGetDevices: Found 5 USB devices, 0 captured
+02:11:39.225261 USBPROXY usbLibGetDevices: Starting USB device enumeration
+02:11:39.230420 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&7d2ba99&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 5
+02:11:39.231800 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&7d2ba99&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 8
+02:11:39.233022 USBPROXY usbLibGetDevices: Found 5 USB devices, 0 captured
+02:20:04.591554 USBPROXY usbLibGetDevices: Starting USB device enumeration
+02:20:04.597627 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&7d2ba99&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 5
+02:20:04.598680 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&7d2ba99&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 8
+02:20:04.599666 USBPROXY usbLibGetDevices: Found 5 USB devices, 0 captured
+02:20:06.686572 USBPROXY usbLibGetDevices: Starting USB device enumeration
+02:20:06.694195 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&7d2ba99&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 5
+02:20:06.694951 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&7d2ba99&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 8
+02:20:06.695465 USBPROXY usbLibGetDevices: Found 5 USB devices, 0 captured
+02:28:06.022456 dns-monitor HostDnsMonitor: updating information
+02:28:06.022613 dns-monitor HostDnsMonitor: unchanged
+02:58:07.065935 dns-monitor HostDnsMonitor: updating information
+02:58:07.066139 dns-monitor HostDnsMonitor: unchanged
+03:28:08.112580 dns-monitor HostDnsMonitor: updating information
+03:28:08.112761 dns-monitor HostDnsMonitor: unchanged
+03:58:08.131710 dns-monitor HostDnsMonitor: updating information
+03:58:08.131819 dns-monitor HostDnsMonitor: unchanged
+04:28:09.204910 dns-monitor HostDnsMonitor: updating information
+04:28:09.205295 dns-monitor HostDnsMonitor: unchanged
+04:58:10.236857 dns-monitor HostDnsMonitor: updating information
+04:58:10.237068 dns-monitor HostDnsMonitor: unchanged
+05:07:42.731348 USBPROXY usbLibGetDevices: Starting USB device enumeration
+05:07:42.739004 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&7d2ba99&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 5
+05:07:42.740504 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&7d2ba99&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 8
+05:07:42.742371 USBPROXY usbLibGetDevices: Found 5 USB devices, 0 captured
+05:07:57.751774 USBPROXY usbLibGetDevices: Starting USB device enumeration
+05:07:57.756875 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&7d2ba99&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 5
+05:07:57.757960 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&7d2ba99&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 8
+05:07:57.758779 USBPROXY usbLibGetDevices: Found 5 USB devices, 0 captured
+05:08:30.047254 USBPROXY usbLibGetDevices: Starting USB device enumeration
+05:08:30.055225 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&7d2ba99&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 5
+05:08:30.057801 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&7d2ba99&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 8
+05:08:30.062245 USBPROXY usbLibGetDevices: Found 5 USB devices, 0 captured
+05:08:39.662609 USBPROXY usbLibGetDevices: Starting USB device enumeration
+05:08:39.666721 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&7d2ba99&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 5
+05:08:39.667809 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&7d2ba99&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 8
+05:08:39.668822 USBPROXY usbLibGetDevices: Found 5 USB devices, 0 captured
+05:10:02.061663 USBPROXY usbLibGetDevices: Starting USB device enumeration
+05:10:02.068983 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&7d2ba99&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 5
+05:10:02.071766 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&7d2ba99&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 8
+05:10:02.073985 USBPROXY usbLibGetDevices: Found 5 USB devices, 0 captured
+05:25:08.899331 USBPROXY usbLibGetDevices: Starting USB device enumeration
+05:25:08.903561 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&7d2ba99&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 5
+05:25:08.904699 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&7d2ba99&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 8
+05:25:08.906024 USBPROXY usbLibGetDevices: Found 5 USB devices, 0 captured
+05:25:10.478740 USBPROXY usbLibGetDevices: Starting USB device enumeration
+05:25:10.483822 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&7d2ba99&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 5
+05:25:10.485570 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&7d2ba99&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 8
+05:25:10.488306 USBPROXY usbLibGetDevices: Found 5 USB devices, 0 captured
+05:28:11.314842 dns-monitor HostDnsMonitor: updating information
+05:28:11.314913 dns-monitor HostDnsMonitor: unchanged
+05:46:47.587084 USBPROXY usbLibGetDevices: Starting USB device enumeration
+05:46:47.593163 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&7d2ba99&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 5
+05:46:47.599742 USBPROXY usbLibGetDevices: Found 5 USB devices, 0 captured
+05:47:06.086177 USBPROXY usbLibGetDevices: Starting USB device enumeration
+05:47:06.089752 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&7d2ba99&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 5
+05:47:06.091762 USBPROXY usbLibGetDevices: Found 5 USB devices, 0 captured
+05:47:07.199488 USBPROXY usbLibGetDevices: Starting USB device enumeration
+05:47:07.211158 USBPROXY usbLibGetDevices: Found 5 USB devices, 0 captured
+05:58:12.368265 dns-monitor HostDnsMonitor: updating information
+05:58:12.368442 dns-monitor HostDnsMonitor: unchanged
+06:28:13.451032 dns-monitor HostDnsMonitor: updating information
+06:28:13.451216 dns-monitor HostDnsMonitor: unchanged
+06:58:14.490172 dns-monitor HostDnsMonitor: updating information
+06:58:14.491012 dns-monitor HostDnsMonitor: unchanged
+07:10:28.165491 USBPROXY usbLibGetDevices: Starting USB device enumeration
+07:10:28.171655 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&7d2ba99&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 5
+07:10:28.172637 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&7d2ba99&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 8
+07:10:28.175394 USBPROXY usbLibGetDevices: Found 5 USB devices, 0 captured
+07:10:28.184369 USBPROXY USB: Unknown USB device detected (idVendor: 0x0bda, idProduct: 0x57b5)
+07:10:43.136847 USBPROXY usbLibGetDevices: Starting USB device enumeration
+07:10:43.141362 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&7d2ba99&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 5
+07:10:43.142993 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&7d2ba99&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 8
+07:10:43.143716 USBPROXY usbLibGetDevices: Found 5 USB devices, 0 captured
+07:11:14.413793 USBPROXY usbLibGetDevices: Starting USB device enumeration
+07:11:14.417464 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&7d2ba99&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 5
+07:11:14.418181 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&7d2ba99&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 8
+07:11:14.419136 USBPROXY usbLibGetDevices: Found 5 USB devices, 0 captured
+07:11:26.546979 USBPROXY usbLibGetDevices: Starting USB device enumeration
+07:11:26.552761 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&7d2ba99&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 5
+07:11:26.553702 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&7d2ba99&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 8
+07:11:26.554310 USBPROXY usbLibGetDevices: Found 5 USB devices, 0 captured
+07:12:47.913522 USBPROXY usbLibGetDevices: Starting USB device enumeration
+07:12:47.917207 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&7d2ba99&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 5
+07:12:47.918028 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&7d2ba99&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 8
+07:12:47.918926 USBPROXY usbLibGetDevices: Found 5 USB devices, 0 captured
+07:22:42.545516          Saving settings file "C:\Users\Aida\VirtualBox VMs\Windows7\Windows7.vbox" with version "1.15-windows"
+07:22:42.591048          ERROR [COM]: aRC=VBOX_E_IPRT_ERROR (0x80bb0005) aIID={85632c68-b5bb-4316-a900-5eb28d3413df} aComponent={MachineWrap} aText={Saved screenshot thumbnail data is not available (VERR_NOT_SUPPORTED)}, preserve=false aResultDetail=-37
+07:22:42.619799          ERROR [COM]: aRC=VBOX_E_IPRT_ERROR (0x80bb0005) aIID={85632c68-b5bb-4316-a900-5eb28d3413df} aComponent={MachineWrap} aText={Saved screenshot thumbnail data is not available (VERR_NOT_SUPPORTED)}, preserve=false aResultDetail=-37
+07:22:42.808166 SaveState Saving settings file "C:\Users\Aida\VirtualBox VMs\Windows7\Windows7.vbox" with version "1.15-windows"
+07:22:43.369176          Saving settings file "C:\Users\Aida\VirtualBox VMs\Windows7\Windows7.vbox" with version "1.15-windows"
+07:24:22.005354 USBPROXY usbLibGetDevices: Starting USB device enumeration
+07:24:22.008858 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&7d2ba99&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 5
+07:24:22.009548 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&7d2ba99&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 8
+07:24:22.010862 USBPROXY usbLibGetDevices: Found 5 USB devices, 0 captured
+07:25:16.306826          Saving settings file "C:\Users\Aida\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+07:25:16.318515          Saving settings file "C:\Users\Aida\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+07:25:21.880748 main     VirtualBox: object deletion starts
+07:25:21.881448 main     ERROR [COM]: aRC=VBOX_E_OBJECT_IN_USE (0x80bb000c) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Medium 'C:\Users\Aida\VirtualBox VMs\EJ1AIDA\Snapshots/{b6f6678d-42f4-448d-a867-856ffdc0fa8b}.vdi' cannot be closed because it is still attached to 1 virtual machines}, preserve=false aResultDetail=0
+07:25:21.881997 main     ERROR [COM]: aRC=VBOX_E_OBJECT_IN_USE (0x80bb000c) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Medium 'C:\Users\Aida\VirtualBox VMs\EJ1AIDA\Snapshots/{80fa03c1-5d4e-4fb9-ba48-2158d4106cb6}.vdi' cannot be closed because it is still attached to 1 virtual machines}, preserve=false aResultDetail=0
+07:25:21.882040 main     ERROR [COM]: aRC=VBOX_E_OBJECT_IN_USE (0x80bb000c) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Medium 'C:\Users\Aida\VirtualBox VMs\EJ1AIDA\Snapshots/{e92584ad-a23a-497d-8dfc-16f998a20477}.vdi' cannot be closed because it is still attached to 1 virtual machines}, preserve=false aResultDetail=0
+07:25:21.882076 main     ERROR [COM]: aRC=VBOX_E_OBJECT_IN_USE (0x80bb000c) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Medium 'C:\Users\Aida\VirtualBox VMs\EJ1AIDA\Snapshots/{9d7235dc-4cfd-415c-bb10-52af62acb54c}.vdi' cannot be closed because it is still attached to 1 virtual machines}, preserve=false aResultDetail=0
+07:25:21.882175 main     ERROR [COM]: aRC=VBOX_E_OBJECT_IN_USE (0x80bb000c) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Medium 'C:\Users\Aida\VirtualBox VMs\EJ1AIDA\Snapshots/{c50f6b8c-07db-449e-ae36-f97322428d7c}.vdi' cannot be closed because it is still attached to 1 virtual machines}, preserve=false aResultDetail=0
+07:25:21.882211 main     ERROR [COM]: aRC=VBOX_E_OBJECT_IN_USE (0x80bb000c) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Medium 'C:\Users\Aida\VirtualBox VMs\EJ1AIDA\EJ1AIDA.vdi' cannot be closed because it is still attached to 1 virtual machines}, preserve=false aResultDetail=0
+07:25:21.895538 main     ERROR [COM]: aRC=VBOX_E_OBJECT_IN_USE (0x80bb000c) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Medium 'C:\Users\Aida\VirtualBox VMs\EJ4AIDA\EJ4AIDA.vdi' cannot be closed because it is still attached to 1 virtual machines}, preserve=false aResultDetail=0
+07:25:21.897433 main     ERROR [COM]: aRC=VBOX_E_OBJECT_IN_USE (0x80bb000c) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Medium 'C:\Users\Aida\VirtualBox VMs\EJ5AIDA_\Snapshots/{fb94dcb6-2527-4c12-9af8-1372291d5dfc}.vdi' cannot be closed because it is still attached to 1 virtual machines}, preserve=false aResultDetail=0
+07:25:21.897499 main     ERROR [COM]: aRC=VBOX_E_OBJECT_IN_USE (0x80bb000c) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Medium 'C:\Users\Aida\VirtualBox VMs\EJ5AIDA_\Snapshots/{4ec01542-99bd-4b79-8e07-f6ddc3e1bf8c}.vdi' cannot be closed because it is still attached to 1 virtual machines}, preserve=false aResultDetail=0
+07:25:21.897550 main     ERROR [COM]: aRC=VBOX_E_OBJECT_IN_USE (0x80bb000c) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Medium 'C:\Users\Aida\VirtualBox VMs\EJ5AIDA_\Snapshots/{1ed3b3d9-85e6-49a5-bcc7-a09ecf5d28cd}.vdi' cannot be closed because it is still attached to 1 virtual machines}, preserve=false aResultDetail=0
+07:25:21.897585 main     ERROR [COM]: aRC=VBOX_E_OBJECT_IN_USE (0x80bb000c) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Medium 'C:\Users\Aida\VirtualBox VMs\EJ5AIDA_\Snapshots/{33e12288-328c-4a55-a5be-ed00acde55f7}.vdi' cannot be closed because it is still attached to 1 virtual machines}, preserve=false aResultDetail=0
+07:25:21.897619 main     ERROR [COM]: aRC=VBOX_E_OBJECT_IN_USE (0x80bb000c) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Medium 'C:\Users\Aida\VirtualBox VMs\EJ5AIDA_\Snapshots/{07757318-79a5-4932-892d-3b771a7a00c0}.vdi' cannot be closed because it is still attached to 1 virtual machines}, preserve=false aResultDetail=0
+07:25:21.897662 main     ERROR [COM]: aRC=VBOX_E_OBJECT_IN_USE (0x80bb000c) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Medium 'C:\Users\Aida\VirtualBox VMs\EJ5AIDA_\EJ5AIDA .vdi' cannot be closed because it is still attached to 1 virtual machines}, preserve=false aResultDetail=0
+07:25:21.906541 main     ERROR [COM]: aRC=VBOX_E_OBJECT_IN_USE (0x80bb000c) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Medium 'C:\Users\Aida\VirtualBox VMs\EJ6AIDA_\EJ1AIDA-disk001.vdi' cannot be closed because it is still attached to 1 virtual machines}, preserve=false aResultDetail=0
+07:25:21.907810 main     ERROR [COM]: aRC=VBOX_E_OBJECT_IN_USE (0x80bb000c) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Medium 'C:\Users\Aida\VirtualBox VMs\Windows10_32\Windows10_32.vdi' cannot be closed because it is still attached to 1 virtual machines}, preserve=false aResultDetail=0
+07:25:21.909033 main     ERROR [COM]: aRC=VBOX_E_OBJECT_IN_USE (0x80bb000c) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Medium 'C:\Users\Aida\VirtualBox VMs\Windows7\Snapshots/{c9e966b0-b8a7-4d2b-8020-6cc9ef35a78d}.vdi' cannot be closed because it is still attached to 1 virtual machines}, preserve=false aResultDetail=0
+07:25:21.909082 main     ERROR [COM]: aRC=VBOX_E_OBJECT_IN_USE (0x80bb000c) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Medium 'C:\Users\Aida\VirtualBox VMs\Windows7\Windows7.vdi' cannot be closed because it is still attached to 1 virtual machines}, preserve=false aResultDetail=0
+07:25:21.909271 main     ERROR [COM]: aRC=VBOX_E_OBJECT_IN_USE (0x80bb000c) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Medium 'C:\Users\Aida\VirtualBox VMs\Windows7\Snapshots/{b6e9a051-35bb-45ee-9d92-de10ad2c4812}.vdi' cannot be closed because it is still attached to 1 virtual machines}, preserve=false aResultDetail=0
+07:25:21.909315 main     ERROR [COM]: aRC=VBOX_E_OBJECT_IN_USE (0x80bb000c) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Medium 'C:\Users\Aida\VirtualBox VMs\Windows7\Windows7_2.vdi' cannot be closed because it is still attached to 1 virtual machines}, preserve=false aResultDetail=0
+07:25:21.909341 main     ERROR [COM]: aRC=VBOX_E_OBJECT_IN_USE (0x80bb000c) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Medium 'C:\Users\Aida\VirtualBox VMs\Windows7\Snapshots/{60ba4e5a-bba5-491e-9e50-afdf4ce84836}.vdi' cannot be closed because it is still attached to 1 virtual machines}, preserve=false aResultDetail=0
+07:25:21.909372 main     ERROR [COM]: aRC=VBOX_E_OBJECT_IN_USE (0x80bb000c) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Medium 'C:\Users\Aida\VirtualBox VMs\Windows7\Windows7_3.vdi' cannot be closed because it is still attached to 1 virtual machines}, preserve=false aResultDetail=0
+07:25:21.911340 main     ERROR [COM]: aRC=VBOX_E_OBJECT_IN_USE (0x80bb000c) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Medium 'C:\Users\Aida\VirtualBox VMs\Ubuntu 20\Ubuntu 20-disk001.vdi' cannot be closed because it is still attached to 1 virtual machines}, preserve=false aResultDetail=0
+07:25:21.917454 main     HostDnsMonitor: shutting down ...
+07:25:21.918157 main     HostDnsMonitor: shut down
+07:25:21.928627 Watcher  ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={d0a0163f-e254-4e5b-a1f2-011cf991c38d} aComponent={VirtualBoxWrap} aText={The object is not ready}, preserve=false aResultDetail=0
+07:25:21.930445 main     VirtualBox: object deleted
